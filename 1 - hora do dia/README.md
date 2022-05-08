@@ -1,4 +1,3 @@
-# Primeiro Projeto: hora do dia #
-
-
+# Projeto Hora do Dia #
+## Html, Css; JavaScript. ##
 
